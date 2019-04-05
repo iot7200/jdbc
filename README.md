@@ -63,5 +63,3 @@ MariaDB [<i>SCHEMA</i>]>
 |ArticleDaoImplUsingTemplate|ArticleDao 인터페이스의 구현 클래스. JdbcTemplate을 사용한다.|
 |JdbcTemplate|JDBC helper 클래스.|
 |RowMapper|mapRow()를 파라미터로 넘기기 위한 FunctionalInterface.|
-# 리파지토리명
-# jdbc
